@@ -1,5 +1,3 @@
-# Week2_Lab_sample
-
 # INFT6201 Lab Exercise - Week 2
 
 ## Project Overview
